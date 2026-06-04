@@ -1,6 +1,8 @@
 {
   "vivos_version": "13.0",
   "alignment": "GOLDEN_PATH",
+  "aggregate": "OMNI-HUB",
+  "nexus_role": "Observer",
   "capabilities": [],
   "dependencies": ["Sovereign-Intelligence-SDK"],
   "telemetry": {
